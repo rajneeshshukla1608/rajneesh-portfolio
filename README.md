@@ -1,3 +1,3 @@
-## Visit here https://video-hub-git-main-rajneeshshukla1608.vercel.app/
+## Visit here https://rajneesh-shukla.netlify.app/
 
 # rajneesh-portfolio
